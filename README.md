@@ -37,3 +37,10 @@ The model was trained on a comprehensive dataset curated from public medical rep
    ```bash
    git clone [https://github.com/abanoub-coder/covid19-detection.git](https://github.com/abanoub-coder/covid19-detection.git)
    cd covid19-detection
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the colab Notebook:
+   Open the COVID_19_Detection.ipynb file in Jupyter or Google Colab to view the model architecture, training process, and evaluation metrics.
+
