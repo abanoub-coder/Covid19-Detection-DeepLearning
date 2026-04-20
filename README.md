@@ -35,5 +35,5 @@ The model was trained on a comprehensive dataset curated from public medical rep
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/abanoub-coder/covid19-detection.git](https://github.com/yourusername/covid19-detection.git)
+   git clone [https://github.com/abanoub-coder/covid19-detection.git](https://github.com/abanoub-coder/covid19-detection.git)
    cd covid19-detection
